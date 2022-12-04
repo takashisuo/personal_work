@@ -1,12 +1,7 @@
 import sys
-from random import random
 from concurrent import futures
-import multiprocessing
 import os
-import sys
-import ast
 import multiprocessing
-from typing import Any
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from Logger.logger import Logger
 from Worker.worker_task import WorkerTask
