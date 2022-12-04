@@ -1,0 +1,4 @@
+multiprocess/Logger/__pycache__/logger.cpython-39.pyc
+multiprocess/Worker/__pycache__/worker_task.cpython-39.pyc
+multiprocess/err_file.txt
+multiprocess/log_file.txt
